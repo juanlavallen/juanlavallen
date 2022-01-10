@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
-<h3 align="center">Full Stack Developer in process</h3>
+<h3 align="center">🚀Full Stack Developer in process🚀</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -10,7 +10,7 @@
 
 </p>
 
-<h3 align="left">Skills and Tolls:</h3>
+<h3 align="left">Skills and Tools:</h3>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" height="50px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" height="50px"/>
