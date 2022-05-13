@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **NodeJS and Angular**
 
-- ⚡ Fun fact **¡I'm always listening to AC⚡DC!**
+- ⚡ Fun fact **I'm always listening to AC⚡DC**
 
 ### 📌 Technology Stack 
 
