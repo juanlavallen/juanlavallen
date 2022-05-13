@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on **Fullstack Developer in NodeJS and Angular** -->
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
