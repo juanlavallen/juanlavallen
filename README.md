@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on **Fullstack Developer in NodeJS and Angular** -->
 
-- 🌱 I’m currently learning **GO**
+- 🌱 I’m currently learning **GO & Rust**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
