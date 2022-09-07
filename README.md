@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GO & Rust**
 
-- 👯 I’m looking to collaborate on **Open source projects**
+<!-- - 👯 I’m looking to collaborate on **Open source projects** -->
 
 - 💬 Ask me about **NodeJS and Angular**
 
