@@ -1,7 +1,7 @@
 
 # ¡Hi! I'm Juan, Fullstack Developer 👨‍💻
 
-<!-- - 🔭 I’m currently working on **Fullstack Developer in NodeJS and Angular** -->
+<!-- - 🔭 I’m currently working on **Full Stack Developer in NodeJS and Angular** -->
 
 - 🌱 I’m currently learning **GO & Rust**
 
