@@ -1,5 +1,5 @@
 
-# ¡Hi! I'm Juan, Fullstack Developer 👨‍💻
+# ¡Hi! I'm Juan, Full Stack Developer 👨‍💻
 
 <!-- - 🔭 I’m currently working on **Full Stack Developer in NodeJS and Angular** -->
 
