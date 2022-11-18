@@ -1,19 +1,19 @@
 
-# ¡Hi! I'm Juan, Full Stack Developer 👨‍💻
+<!-- # ¡Hi! I'm Juan, Full Stack Developer 👨‍💻 -->
 
 <!-- - 🔭 I’m currently working on **Full Stack Developer in NodeJS and Angular** -->
 
-- 🌱 I’m currently learning **Rust**
+<!-- - 🌱 I’m currently learning **Rust** -->
 
 <!-- - 👯 I’m looking to collaborate on **Open source projects** -->
 
-- 💬 Ask me about **NodeJS and Angular**
+<!-- - 💬 Ask me about **NodeJS and Angular** -->
 
-- ⚡ Fun fact **I'm always listening to AC⚡DC**
+<!-- - ⚡ Fun fact **I'm always listening to AC⚡DC** -->
 
 ### 📌 Technology Stack 
 
-<div align="center">
+<div align="left">
 <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -29,14 +29,19 @@
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
     <!-- <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> -->
     <!-- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> -->
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <!-- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> -->
+    <br>
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
     <br>
 <!--<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  -->
 <!--<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=whit" />
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 
