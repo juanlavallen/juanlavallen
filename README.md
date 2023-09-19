@@ -1,4 +1,4 @@
-<img src="/assets/readme-grey.png"/>
+<!-- <img src="/assets/readme-grey.png"/> -->
 <!-- # ¡Hi! I'm Juan, Full Stack Developer 👨‍💻 -->
 
 <!-- - 🔭 I’m currently working on **Full Stack Developer in NodeJS and Angular** -->
