@@ -50,11 +50,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:juanlavallen02@gmail.com">
-  <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=email&logoColor=white"> 
-<!--   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{juanlavallen}1212%2Fhit-counter" /> -->
-</a>
-
 <!-- <a href="#">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whitehttps://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a> -->
